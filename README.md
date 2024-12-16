@@ -16,6 +16,8 @@ Also, as this is also a learning experiment, one of the goals is to have unit te
 
 Except the above mentioned goals, the project also aims to provide some cool features - it tries to combine 
 the best features from JmsSerializer and from [Jackson](https://github.com/FasterXML/jackson) in Java.
+## Installation
+composer require json-serializer/json-serializer-php8
 
 ## Current state
 
