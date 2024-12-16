@@ -52,7 +52,7 @@
 
     "config": {
         "platform": {
-            "php": "7.2"
+            "php": "8.3"
         },
         "sort-packages": true
     }
